@@ -1,5 +1,5 @@
 # create_file_index
-Makes searching for file meta-data very easy
+Makes searching for file meta-data very easy and can be used as a nightly `Scheduled Task`.
 
 ## Synopsis
 This batch file creates two compressed files:
