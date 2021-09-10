@@ -50,3 +50,4 @@ C:\github.com\jftuga\create_file_index\README.md
 |                     | 1,246 |      | (average size for 3 files)                                   |
 +---------------------+-------+------+--------------------------------------------------------------+
 ```
+See also: [fstat: Get info for a list of files across multiple directories](https://github.com/jftuga/fstat)
