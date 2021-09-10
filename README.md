@@ -2,9 +2,9 @@
 Makes searching for file meta-data very easy
 
 ## Synopsis
-This batch file creates two files:
-* a simple list of files and directories with their full pathname
-* a table of including file name with complete path, modification date, size, and type
+This batch file creates two compressed files:
+* a simple list of files and directories with their full pathname: `dir_list.txt.xz`
+* a table of including file name with complete path, modification date, size, and type: `dir_stat.txt.xz`
 
 ## Usage
 
