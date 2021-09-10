@@ -8,6 +8,10 @@ This batch file creates two compressed files:
 
 ## Usage
 
+In the batch file, you need to edit two settings:
+* **DRIVES**: a space delimited list of drive letters to index
+* **CPU**: the number of threads that `xz` will use for compression
+
 How to view file list:
 * `xz -dc dir_list.txt.xz | less`
 
